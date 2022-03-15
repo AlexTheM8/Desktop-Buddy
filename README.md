@@ -6,6 +6,8 @@ This is a project that I worked on ages ago for fun. Might improve it later.
 ## How To Use
 The Desktop Buddy has two supported characters: Kirby (from the Kirby series) and Boney (from Mother 3).
 
+This project was created with Python 3.9 on a Windows machine. It is unknown if this works for other Python versions or operating systems.
+
 First, clone this Git repository:
 
 ```
