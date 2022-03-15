@@ -1,6 +1,8 @@
 # Desktop Buddy
 This is a project that I worked on ages ago for fun. Might improve it later.
 
+![kirby_sleep](./images/kirby_sleep.gif)![boney_sleep](./images/boney_sleep_right.gif)
+
 ## How To Use
 The Desktop Buddy has two supported characters: Kirby (from the Kirby series) and Boney (from Mother 3).
 
@@ -29,3 +31,5 @@ python buddy_boney.py
 ```
 
 To stop the Desktop Buddy, close the command terminal.
+
+![kirby_dance](./images/kirby_dance.gif)
